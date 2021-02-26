@@ -1,0 +1,21 @@
+{
+    "name": "eossDarkTheme",
+    "displayName": "eoss Dark Theme",
+    "description": "Dark Theme in eoss colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "eoss Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/eoss Theme-color-theme.json"
+            }
+        ]
+    }
+}
